@@ -1,4 +1,9 @@
                              SHEDOM BASIC LOGIN
 Works on any android mobile with API > 9
 Languages Used : java(for android) , PHP ,MySQL.
+This master has 2 folders namerly shedom_login and android_login_api
+->shedom_login has all the files of Android Studio coded in jav which take care of the UI and front-end completely.
+->android_login_api contains all the php files which help in contacting the database.
+--> All the php files are hosted on a private domain which isn't mentioned here.
+-->Password is encrypted using salt. The encrypted password along with the salt is stored in the database to prevent any malware attack.
 This app solely belongs to this git user with name inturisuhas.This can only used for development purpose with stated permission from the owner.
