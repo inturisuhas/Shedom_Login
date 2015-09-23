@@ -1,0 +1,8 @@
+<?php
+ 
+
+define("DB_HOST", "mysql.hostinger.in");
+define("DB_USER", "u583978261_suhas");
+define("DB_PASSWORD", "suhasshedom");
+define("DB_DATABASE", "u583978261_login");
+?>
